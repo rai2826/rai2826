@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gaurav Rai</h1>
 <h3 align="center">A curious Quality Engineer based in Melbourne</h3>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 I have 14 years of experience in Quality assurance,delivering complex projects from inception to production.I strive to achieve shift left in testing with collaboration with devs, product owners and a big advocate of "Quality is everyone's responsibility". I am also a avid learner and continue to evolve myself.I have good experience with Telecom, Utility domains and UI,API Test automation with Selenium,Rest-Assured and currently learning and working on a Playwright project. Observability interests me and I have good work experience working with Splunk and New Relic as well !!!
 
