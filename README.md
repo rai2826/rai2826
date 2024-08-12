@@ -27,10 +27,10 @@ Feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Selenium](https://img.shields.io/badge/-Selenium-FCA121?style=flat-square&logo=Selenium)
-![RestAssured](https://img.shields.io/badge/-RestAssured-FCA121?style=flat-square&logo=RestAssured)
-![Playwright](https://img.shields.io/badge/-Playwright-FCA121?style=flat-square&logo=Playwright)
-![Postman](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&logo=Postman)
-![Splunk](https://img.shields.io/badge/-Splunk-FCA121?style=flat-square&logo=Splunk)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![RestAssured](https://img.shields.io/badge/-RestAssured-E34A86?style=flat-square&logo=RestAssured)
+![Playwright](https://img.shields.io/badge/-Playwright-green?style=flat-square&logo=Playwright)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square&logo=Splunk)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rai2826&show_icons=true&locale=en&layout=compact" alt="rai2826" /></p>
