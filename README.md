@@ -15,7 +15,7 @@ I also write articles on Medium around Test automation.
 
 Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-gauravrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-rai-quality-engineering)](https://www.linkedin.com/in/gaurav-rai-quality-engineering)
-[![Medium Badge](https://img.shields.io/badge/-@rai2826?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rai2826/)](https://medium.com/@rai2826)
+[![Medium Badge](https://img.shields.io/badge/-@rai2826-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rai2826/)](https://medium.com/@rai2826)
 [![Gmail Badge](https://img.shields.io/badge/-rai2826@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rai2826@gmail.com)](mailto:rai2826@gmail.com)
 
 ## ⚡ Technologies
