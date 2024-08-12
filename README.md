@@ -12,11 +12,10 @@
 </div>
 <br/>
 
+I have 14 years of experience in Quality assurance delivering complex projects from inception to production.I strive to achieve shift left in testing with collaboration with devs, product owners and a big advocate of "Quality is everyone's responsibility". I have written E2E and automation Test strategies and implemented them successfully in enterprise projects. I am also an avid learner and continue to evolve myself with latest technologies.I have good experience in Telecom, Utility domains and UI,API Test automation with Selenium,Rest-Assured and currently learning and working on a Playwright project. Observability interests me and I have good experience working with Splunk and New Relic as well !!!
 
-I have 14 years of experience in Quality assurance,delivering complex projects from inception to production.I strive to achieve shift left in testing with collaboration with devs, product owners and a big advocate of "Quality is everyone's responsibility". I am also an avid learner and continue to evolve myself.I have good experience with Telecom, Utility domains and UI,API Test automation with Selenium,Rest-Assured and currently learning and working on a Playwright project. Observability interests me and I have good work experience working with Splunk and New Relic as well !!!
 
-
-- 🌱 I’m currently learning and implementing tests with **Playwright**
+- 🌱 I’m currently learning and implementing test framework with **Playwright**
 
 - 📝 I regularly write articles on [Medium.com](Medium.com)
 
