@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gaurav Rai</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1006&color=02080B&center=true&vCenter=true&width=435&lines=A+Curious+Quality+Engineer;Melbourne" alt="Typing SVG" /></a>
+<a align="centre" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1006&color=02080B&center=true&vCenter=true&width=435&lines=A+Curious+Quality+Engineer;Melbourne" alt="Typing SVG" /></a>
 
 <br/>
 <div align="center">
