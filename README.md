@@ -11,6 +11,11 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" class="center">
 </div>
 <br/>
+<br/>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1006&color=02080B&center=true&vCenter=true&width=435&lines=Learn+Unlearn+Learn+%2C+Repeat" alt="Typing SVG" /></a>
+</div>
+<br/>
 
 I have 14 years of experience in Quality assurance delivering complex projects from inception to production.I strive to achieve shift left in testing with collaboration with devs, product owners and a big advocate of "Quality is everyone's responsibility". I have written E2E and automation Test strategies and implemented them successfully in enterprise projects. I am also an avid learner and continue to evolve myself with latest technologies.I have good experience in Telecom, Utility domains and UI,API Test automation with Selenium,Rest-Assured and currently learning and working on a Playwright project. Observability interests me and I have good experience working with Splunk and New Relic as well !!!
 
@@ -19,7 +24,7 @@ I have 14 years of experience in Quality assurance delivering complex projects f
 
 - 📝 I regularly write articles on [Medium.com](Medium.com)
 
-- 📫 How to reach me **rai2826@gmail.com**
+- 📫 I read emails here **rai2826@gmail.com**
 
 ## &#x270d; Blog & Writing
 I also write articles on Medium around Test automation.
